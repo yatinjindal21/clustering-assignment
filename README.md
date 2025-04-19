@@ -62,10 +62,13 @@ Each combination of:
 ## 📌 Visualizations
 
 - **Bar Plot:** Silhouette scores of all models
+- <p align="center">
+  <img src="graph2.png" alt="Cluster PCA Plot" width="500"/>
+</p>
 - **PCA 2D Plots:** Top 3 clustering configurations visualized
 
 <p align="center">
-  <img src="pca_plot_example.png" alt="Cluster PCA Plot" width="500"/>
+  <img src="graph1.png" alt="Cluster PCA Plot" width="500"/>
 </p>
 
 ---
@@ -74,7 +77,7 @@ Each combination of:
 
 | File Name | Description |
 |-----------|-------------|
-| `Clustering_Analysis_Iris.ipynb` | Main Colab notebook with all experiments |
+| `clustering.ipynb` | Main Colab notebook with all experiments |
 | `README.md` | This documentation file |
 
 ---
